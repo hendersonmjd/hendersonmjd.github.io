@@ -1,0 +1,50 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      background-color: #0D85FF;
+    }
+    body {
+       height: auto;
+       background: url(snowflake_background-1600x1200.jpg);
+    }
+
+    header {
+        background-color:#1323FF ;
+        padding:20px;
+        border:;
+        font-size: ;
+        display: block;
+        width: 100%;
+        margin: 0px;
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:140px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      position: absolute;
+      top: 140;
+      right: 200;
+      width: 25%;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    a img {width: 100%}
