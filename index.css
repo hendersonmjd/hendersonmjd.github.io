@@ -42,6 +42,7 @@ there are definitely some properties you should add!*/
       display: inline-block;
       background-color:;
       padding:;
+      vertical-align: top;
       min-height: 100%;
       float: right;
     }
