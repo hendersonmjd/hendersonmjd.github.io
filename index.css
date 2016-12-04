@@ -38,12 +38,11 @@ there are definitely some properties you should add!*/
         display: inline-block;
     }
     aside {
-      width: 17%;
-      display: inline-block;
-      background-color:;
-      padding:;
-      vertical-align: top;
-      min-height: 100%;
-      float: right;
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        position: absolute;;
+        top: 120;
+        right: 40;
     }
     a img {width: 100%}
