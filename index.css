@@ -17,8 +17,8 @@ there are definitely some properties you should add!*/
         border:;
         font-size: ;
         display: block;
-        width: 100%;
-        margin: 0px;
+        width:;
+        margin:;
     }
     nav {
         line-height:;
@@ -38,11 +38,9 @@ there are definitely some properties you should add!*/
         display: inline-block;
     }
     aside {
-        width: 17%;
+        width: 25%;
         display: inline-block;
         background-color:;
-        position: absolute;;
-        top: 120;
-        right: 40;
+        float: right;
     }
     a img {width: 100%}
